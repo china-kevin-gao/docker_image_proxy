@@ -1,4 +1,4 @@
-syncthing/syncthing
+redis:7.4.6
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.28
 #jenkins/jenkins:2.492.3
 #kbudde/rabbitmq-exporter
