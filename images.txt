@@ -1,4 +1,5 @@
-minio/minio:RELEASE.2025-03-12T18-04-18Z
+tjqq/powerjob-server:v5.1.1
+#minio/minio:RELEASE.2025-03-12T18-04-18Z
 #emqx/emqx:5.8.6
 #redis:7.4
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.28
