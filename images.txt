@@ -1,4 +1,6 @@
-tjqq/powerjob-server:v5.1.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
+registry.k8s.io/ingress-nginx/controller:v1.12.0-beta.0
+#tjqq/powerjob-server:v5.1.1
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #emqx/emqx:5.8.6
 #redis:7.4
