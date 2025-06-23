@@ -1,5 +1,5 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
-registry.k8s.io/ingress-nginx/controller:v1.12.0-beta.0
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
+#registry.k8s.io/ingress-nginx/controller:v1.12.0-beta.0
 #tjqq/powerjob-server:v5.1.1
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #emqx/emqx:5.8.6
@@ -32,11 +32,11 @@ registry.k8s.io/ingress-nginx/controller:v1.12.0-beta.0
 #docker.io/calico/node:v3.23.5
 #docker.io/calico/cni:v3.23.5
 
-#prom/blackbox-exporter
-#grafana/grafana:latest
-#prom/prometheus:latest
-#prom/alertmanager:latest
-#prom/node-exporter:latest
+prom/blackbox-exporter
+grafana/grafana:latest
+prom/prometheus:latest
+prom/alertmanager:latest
+prom/node-exporter:latest
 
 #bitnami/mongodb-exporter
 #morunchang/fastdfs
