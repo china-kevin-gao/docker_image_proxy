@@ -1,4 +1,4 @@
-sullo/nikto
+ghcr.io/sullo/nikto:latest
 
 #prom/blackbox-exporter
 #grafana/grafana:latest
