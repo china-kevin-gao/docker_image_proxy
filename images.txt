@@ -1,8 +1,10 @@
-prom/blackbox-exporter
-grafana/grafana:latest
-prom/prometheus:latest
-prom/alertmanager:latest
-prom/node-exporter:latest
+sullo/nikto
+
+#prom/blackbox-exporter
+#grafana/grafana:latest
+#prom/prometheus:latest
+#prom/alertmanager:latest
+#prom/node-exporter:latest
 
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
 #registry.k8s.io/ingress-nginx/controller:v1.12.0-beta.0
