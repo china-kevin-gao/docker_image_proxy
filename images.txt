@@ -1,4 +1,5 @@
-redis:7.0.15
+kbudde/rabbitmq-exporter
+#redis:7.0.15
 #ghcr.io/sullo/nikto:latest
 
 #prom/blackbox-exporter
