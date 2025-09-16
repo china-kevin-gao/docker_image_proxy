@@ -1,4 +1,5 @@
-kbudde/rabbitmq-exporter
+rabbitmq:4-management
+#kbudde/rabbitmq-exporter
 #redis:7.0.15
 #ghcr.io/sullo/nikto:latest
 
