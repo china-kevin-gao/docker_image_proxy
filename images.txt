@@ -1,5 +1,6 @@
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-mysql:8.0.42
+redis:7.2.11
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#mysql:8.0.42
 #rabbitmq:4-management
 #kbudde/rabbitmq-exporter
 #redis:7.0.15
