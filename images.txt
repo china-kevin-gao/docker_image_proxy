@@ -1,4 +1,6 @@
-nginx/nginx-prometheus-exporter:latest
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
+#nginx/nginx-prometheus-exporter:latest
 #redis:7.2.11
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #mysql:8.0.42
