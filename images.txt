@@ -1,4 +1,5 @@
-questdb/questdb:6.0.5
+eipwork/kuboard-agent
+#questdb/questdb:6.0.5
 #eipwork/etcd-host:3.4.16-2
 #eipwork/kuboard:v3
 #nginx/nginx-prometheus-exporter:latest
