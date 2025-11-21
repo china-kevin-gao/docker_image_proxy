@@ -1,7 +1,7 @@
-eipwork/kuboard-agent:latest
-#questdb/questdb:6.0.5
-#eipwork/etcd-host:3.4.16-2
-#eipwork/kuboard:v3
+eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
+questdb/questdb:6.0.5
 #nginx/nginx-prometheus-exporter:latest
 #redis:7.2.11
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
