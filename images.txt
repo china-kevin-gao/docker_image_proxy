@@ -3,3 +3,6 @@ nginx:1.28.1
 
 #mongoDB
 #mongo:5.0.32
+
+#redis
+redis:7.0.15
