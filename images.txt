@@ -6,3 +6,6 @@ nginx:1.28.1
 
 #redis
 redis:7.0.15
+
+#fastdfs
+season/fastdfs:1.2
