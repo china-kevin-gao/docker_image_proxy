@@ -5,7 +5,7 @@ nginx:1.28.1
 #mongo:5.0.32
 
 #redis
-redis:7.0.15
+#redis:7.0.15
 
 #fastdfs
 season/fastdfs:1.2
