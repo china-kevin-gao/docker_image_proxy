@@ -1,5 +1,6 @@
-minio/minio:RELEASE.2025-04-03T14-56-28Z
-season/fastdfs:1.2
+minio/mc:RELEASE.2025-04-03T14-56-28Z
+#minio/minio:RELEASE.2025-04-03T14-56-28Z
+#season/fastdfs:1.2
 #nginx:1.28.1
 #mongo:5.0.32
 #redis:7.0.15
