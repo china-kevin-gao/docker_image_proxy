@@ -1,5 +1,5 @@
-minio/mc:RELEASE.2025-04-03T14-56-28Z
-#minio/minio:RELEASE.2025-04-03T14-56-28Z
+minio/mc:RELEASE.2025-08-13T08-35-41Z
+minio/minio:RELEASE.2025-09-07T16-13-09Z
 #season/fastdfs:1.2
 #nginx:1.28.1
 #mongo:5.0.32
