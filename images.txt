@@ -1,4 +1,4 @@
-bitnami/kafka-exporter
+danielqsj/kafka-exporter
 #minio/mc:RELEASE.2025-08-13T08-35-41Z
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
 #season/fastdfs:1.2
