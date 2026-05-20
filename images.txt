@@ -1,6 +1,7 @@
-minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
-registry.k8s.io/ingress-nginx/controller:v1.14.3
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.7
+coreos/kube-state-metrics:v1.9.0
+#minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
+#registry.k8s.io/ingress-nginx/controller:v1.14.3
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.7
 #danielqsj/kafka-exporter
 #minio/mc:RELEASE.2025-08-13T08-35-41Z
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
