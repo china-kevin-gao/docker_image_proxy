@@ -1,4 +1,4 @@
-registry.k8s.io/kube-state-metrics/kube-state-metrics
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
 #minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
 #registry.k8s.io/ingress-nginx/controller:v1.14.3
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.7
