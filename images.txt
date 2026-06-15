@@ -1,4 +1,5 @@
-cr.fluentbit.io/fluent/fluent-bit:3.1.9
+minio/minio:RELEASE.2023-07-21T21-12-44Z
+#cr.fluentbit.io/fluent/fluent-bit:3.1.9
 #docker.elastic.co/kibana/kibana:7.17.28
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
 #minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
