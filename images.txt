@@ -1,5 +1,6 @@
-bitnami/etcd:latest
-minio-exporter
+registry.k8s.io/metrics-server/metrics-server:v0.8.1
+#bitnami/etcd:latest
+#minio-exporter
 #minio/minio:RELEASE.2023-07-21T21-12-44Z
 #cr.fluentbit.io/fluent/fluent-bit:3.1.9
 #docker.elastic.co/kibana/kibana:7.17.28
