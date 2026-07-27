@@ -1,4 +1,5 @@
-registry.k8s.io/metrics-server/metrics-server:v0.8.1
+mongo:5.0.34
+#registry.k8s.io/metrics-server/metrics-server:v0.8.1
 #bitnami/etcd:latest
 #minio-exporter
 #minio/minio:RELEASE.2023-07-21T21-12-44Z
